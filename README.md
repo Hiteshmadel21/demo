@@ -1,4 +1,4 @@
-<p align="center">🚀 Hi, I'm Hitesh Madel (Boss) 👋</p>
+<p align="center">🚀 Hi, I'm Hitesh Madel 👋</p>
 <p align="center"> <img src="https://img.shields.io/badge/Data%20Science-Professional-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Business%20Analytics-Enthusiast-green?style=for-the-badge"> <img src="https://img.shields.io/badge/AI%20&%20ML-Learner-red?style=for-the-badge"> </p>
 🔥 About Me
 
